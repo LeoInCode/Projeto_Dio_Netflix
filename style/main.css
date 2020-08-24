@@ -45,11 +45,11 @@ header nav a:hover{
 
 /*filme principal*/
 .filme-principal{
-    font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capa-house.jpg');
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/Capa/capa-house.jpg');
 
-    height:400px;
-    background-size:cover;
+    height: 600px;
+    background-size: cover;
  
 
     display: flex;
