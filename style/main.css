@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/Capa/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/capa-house.jpg');
 
     height: 600px;
     background-size: cover;
@@ -109,18 +109,63 @@ header nav a:hover{
     cursor: pointer;
 }
 
-
 .carrosel-filmes{
-    margin-top:5px;
+    margin-top: 5px;
 }
 
+#capas {
+    display: none;
+}
 
+.foto-capa0 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/umbrella_academy-capa.png');
+    background-size: cover;
+}
 
+.foto-capa1 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/star_wars-capa.jpeg');
+    background-size: cover;
+}
 
+.foto-capa2 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/pokemon-capa.jpg');
+    background-size: cover;
+}
 
+.foto-capa3 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/guerra_civil-capa.jpeg');
+    background-size: cover;
+}
 
+.foto-capa4 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/hobbit-capa.jpg');
+    background-size: cover;
+}
 
+.foto-capa5 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/breaking_bad-capa.jpg');
+    background-size: cover;
+}
 
+.foto-capa6 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/house-capa.jpg');
+    background-size: cover;
+}
+
+.foto-capa7 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/supernatural-capa.jpeg');
+    background-size: cover;
+}
+
+.foto-capa8 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/smalville-capa.jpeg');
+    background-size: cover;
+}
+
+.foto-capa9 {
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/capa/vingadores-capa.jpg');
+    background-size: cover;
+}
 
 
 
